@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koech Gideon Kipkorir</h1>
 <h3 align="center">A passionate front-End Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giddyk&label=Profile%20views&color=0e75b6&style=flat" alt="giddyk" /> </p>
 
