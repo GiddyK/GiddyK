@@ -1,4 +1,4 @@
-# <h1 [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Gideon+Koech;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)</h1>
+# <h1> [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Gideon+Koech;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate front-End Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giddyk&label=Profile%20views&color=0e75b6&style=flat" alt="giddyk" /> </p>
