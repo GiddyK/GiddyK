@@ -1,7 +1,7 @@
  # <h1> [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Gideon+Koech;I+Am+Passionate+About+Coding;A+student+At+CUEA+and+ALX_Africa)](https://git.io/typing-svg)</h1>
 
 <div align="center">
-  <a href="https://bimasha.com/">
+  <a href="https://Giddy.com/">
   <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"
        alt="snake" /></a>
 </div>
