@@ -41,7 +41,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bimashazaman&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiddyK&theme=github)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giddyk&show_icons=true&locale=en&layout=compact" alt="giddyk" /></p>
 
