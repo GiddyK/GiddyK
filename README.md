@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://Giddy.com/">
-  <img src="https://github.com/bimashazam/Github-snake-SVG/blob/master/snake.svg"
+  <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"
        alt="snake" /></a>
 </div>
  
